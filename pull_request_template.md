@@ -5,5 +5,3 @@ This PR will
 
 Also (additional changes)
 - ...
-
-Clear progress for exercises (one per line):
